@@ -1,6 +1,6 @@
 # Wireshark
 <h1>Description </h1>
- Utilize Wirehsark to capture packets and use filters to observe website traffic.  </h1>
+ Utilize Wireshark to capture packets and use filters to observe website traffic.  </h1>
 
 <br />
 
